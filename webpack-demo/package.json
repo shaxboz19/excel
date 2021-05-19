@@ -1,0 +1,25 @@
+{
+  "name": "excell",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000e\u0000x\u0000c\u0000e\u0000l\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shaxboz Normatov <Shaxboz.nv@mail.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaxboz19/excel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shaxboz19/excel/issues"
+  },
+  "homepage": "https://github.com/shaxboz19/excel#readme"
+}
